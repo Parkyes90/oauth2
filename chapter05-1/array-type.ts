@@ -1,1 +1,0 @@
-let numArray: (number | string)[] = ["test", 2]
